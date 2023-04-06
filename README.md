@@ -1,5 +1,5 @@
 # ObiTreeRootGame
-This is a test for Adding gifs to a read me
+This is a document demonstrating documentation for a github readme!
 
 # Example Gif
 ![](https://github.com/samcaloiero/ObiTreeRootGame/blob/main/Apply_Modif.gif)
